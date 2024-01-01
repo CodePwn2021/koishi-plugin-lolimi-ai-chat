@@ -1,21 +1,38 @@
 {
   "name": "koishi-plugin-lolimi-chat-ai",
-  "description": "调用桑帛云API实现聊天bot，有两个角色：沫沫（软萌妹妹）和婧枫（傲娇姐姐）",
+  "description": "调用桑帛云API实现AI聊天bot，有两个角色：沫沫（软萌妹妹）和婧枫（傲娇姐姐）。",
   "version": "0.0.1",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
+  "license": "AGPL-3.0-or-later",
+  "contributors": [
+    "CodePwn2021 <77036672+CodePwn2021@users.noreply.github.com>"
+  ],
+  "homepage": "https://github.com/CodePwn2021/koishi-plugin-lolimi-chat-ai",
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin",
+    "AI",
+    "role play"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodePwn2021/koishi-plugin-lolimi-chat-ai.git"
+  },
   "files": [
     "lib",
     "dist"
   ],
-  "license": "MIT",
-  "scripts": {},
-  "keywords": [
-    "chatbot",
-    "koishi",
-    "plugin"
-  ],
   "peerDependencies": {
     "koishi": "^4.16.3"
+  },
+  "koishi": {
+    "description": {
+      "zh": "调用桑帛云API实现AI聊天bot，有两个角色：沫沫（软萌妹妹）和婧枫（傲娇姐姐）。"
+    },
+    "service": {
+      "required": ["database"]
+    }
   }
 }
