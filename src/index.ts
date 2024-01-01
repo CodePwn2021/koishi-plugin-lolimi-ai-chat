@@ -1,6 +1,6 @@
 import { Context, Schema } from 'koishi'
 
-export const name = 'lolimi-chat-ai';
+export const name = 'lolimi-ai-chat';
 
 export const usage = '接口来自桑帛云 (https://api.lolimi.cn)\n权限说明：获取用户的权限等级需要用到database服务';
 

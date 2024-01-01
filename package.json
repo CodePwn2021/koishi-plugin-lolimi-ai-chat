@@ -1,5 +1,5 @@
 {
-  "name": "koishi-plugin-lolimi-chat-ai",
+  "name": "koishi-plugin-lolimi-ai-chat",
   "author": "codepwn",
   "description": "调用桑帛云API实现AI聊天bot，有两个角色：沫沫（软萌妹妹）和婧枫（傲娇姐姐）。",
   "version": "0.0.1",
@@ -9,7 +9,7 @@
   "contributors": [
     "CodePwn2021 <77036672+CodePwn2021@users.noreply.github.com>"
   ],
-  "homepage": "https://github.com/CodePwn2021/koishi-plugin-lolimi-chat-ai",
+  "homepage": "https://github.com/CodePwn2021/koishi-plugin-lolimi-ai-chat",
   "keywords": [
     "chatbot",
     "koishi",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodePwn2021/koishi-plugin-lolimi-chat-ai.git"
+    "url": "git+https://github.com/CodePwn2021/koishi-plugin-lolimi-ai-chat.git"
   },
   "files": [
     "lib",
