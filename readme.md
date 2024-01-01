@@ -12,7 +12,5 @@ Koishi插件，调用桑帛云API实现AI聊天bot，有两个角色：沫沫（
 而且API居然会屏蔽“开发的”这个关键词（应该还有别的，懒得一个个试）
 
 额外的信息：
-
 ~~水commit用，新的一年多水几条commit和仓库~~
-
 为什么插件要叫lolimi-chat-ai呢，是因为[桑帛云API](https://api.lolimi.cn)的域名是 api.lolimi.cn
