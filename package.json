@@ -2,7 +2,7 @@
   "name": "koishi-plugin-lolimi-ai-chat",
   "author": "codepwn",
   "description": "调用桑帛云API实现AI聊天bot，有两个角色：沫沫（软萌妹妹）和婧枫（傲娇姐姐）。",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "license": "AGPL-3.0-or-later",
